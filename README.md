@@ -11,8 +11,8 @@ let DHPh = {
     outlook: "phamhongdang2004@outlook.com",
     tsr: "dangph@tensoract.io",
   },
-  university: "University of Information Technology - UIT"
-}
+  university: "University of Information Technology - UIT",
+};
 ```
 
 ## Github Streak
