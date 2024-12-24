@@ -7,10 +7,7 @@
 let DHPh = {
   name: "Phạm Hồng Đăng",
   birthday: 2004,
-  emailContact: {
-    outlook: "phamhongdang2004@outlook.com",
-    tsr: "dangph@tensoract.io",
-  },
+  emailContact: "phamhongdang2004@outlook.com",
   university: "University of Information Technology - UIT",
 };
 ```
